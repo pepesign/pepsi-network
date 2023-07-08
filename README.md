@@ -4,7 +4,7 @@
 ## Cloning
 
 Be sure to clone the repository properly:\
-`$ git clone --recursive https://github.com/hyle-team/zano.git`
+`$ git clone --recursive https://github.com/pepesign/pepsi-network.git`
 
 # Building
 --------
